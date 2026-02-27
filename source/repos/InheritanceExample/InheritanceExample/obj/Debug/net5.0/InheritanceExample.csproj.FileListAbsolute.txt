@@ -1,0 +1,16 @@
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\bin\Debug\net5.0\InheritanceExample.exe
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\bin\Debug\net5.0\InheritanceExample.deps.json
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\bin\Debug\net5.0\InheritanceExample.runtimeconfig.json
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\bin\Debug\net5.0\InheritanceExample.runtimeconfig.dev.json
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\bin\Debug\net5.0\InheritanceExample.dll
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\bin\Debug\net5.0\ref\InheritanceExample.dll
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\bin\Debug\net5.0\InheritanceExample.pdb
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.csproj.AssemblyReference.cache
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.AssemblyInfoInputs.cache
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.AssemblyInfo.cs
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.csproj.CoreCompileInputs.cache
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.dll
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\ref\InheritanceExample.dll
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.pdb
+C:\Users\manju\source\repos\InheritanceExample\InheritanceExample\obj\Debug\net5.0\InheritanceExample.genruntimeconfig.cache
