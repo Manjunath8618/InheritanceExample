@@ -1,0 +1,16 @@
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\bin\Debug\net5.0\ExceptionHandlingExam.exe
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\bin\Debug\net5.0\ExceptionHandlingExam.deps.json
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\bin\Debug\net5.0\ExceptionHandlingExam.runtimeconfig.json
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\bin\Debug\net5.0\ExceptionHandlingExam.runtimeconfig.dev.json
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\bin\Debug\net5.0\ExceptionHandlingExam.dll
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\bin\Debug\net5.0\ref\ExceptionHandlingExam.dll
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\bin\Debug\net5.0\ExceptionHandlingExam.pdb
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.csproj.AssemblyReference.cache
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.AssemblyInfoInputs.cache
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.AssemblyInfo.cs
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.csproj.CoreCompileInputs.cache
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.dll
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ref\ExceptionHandlingExam.dll
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.pdb
+C:\Users\manju\source\repos\ExceptionHandlingExam\ExceptionHandlingExam\obj\Debug\net5.0\ExceptionHandlingExam.genruntimeconfig.cache
